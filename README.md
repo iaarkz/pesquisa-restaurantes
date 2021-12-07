@@ -1,6 +1,6 @@
 Projeto criado a partir do bootcamp Impulso React Web Developer a partir das aulas Criando Busca de Restaurantes com API Google Maps ministradas pelo Patrick Narciso.
 
-![Project Example](./public/pesquisa-restaurantes.png)
+![Project Example](./public/pesquisa-restaurantes2.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
